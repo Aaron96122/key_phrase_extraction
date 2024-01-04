@@ -17,7 +17,7 @@ transformers 4.23
 First, download the full Stanford CoreNLP Tagger version 3.8.0 (http://nlp.stanford.edu/software/stanford-corenlp-full-2018-02-27.zip)
 
 
-Second, we use run.sh script to run the whole experiment to replicate the experiment on the test set of the Inspect dataset.
+Second, we use run.sh script to replicate the experiment on the test set of the Inspect dataset.
 
 ```
 sh run.sh
